@@ -1,7 +1,7 @@
-
+package Day3_Arrays;
 import java.util.Scanner;
 
-public class FriendComparison {
+public class Friend {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -41,6 +41,7 @@ public class FriendComparison {
         sc.close();
     }
 }
+
 
  
     
