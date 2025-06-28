@@ -41,4 +41,4 @@ public class ElectionBoothManager {
 
         sc.close();
     }
-}
+} 
