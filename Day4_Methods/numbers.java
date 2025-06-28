@@ -7,7 +7,7 @@ public class numbers {
 
      
         System.out.print("Enter an integer number: ");
-        int number = scanner.nextInt();
+        int number = sc.nextInt();
 
         
         int result = checkNumber(number);
@@ -21,7 +21,7 @@ public class numbers {
             System.out.println("The number is Zero.");
         }
 
-        scanner.close();
+        sc.close();
     }
 
 

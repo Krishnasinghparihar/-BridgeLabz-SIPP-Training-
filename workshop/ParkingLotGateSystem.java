@@ -10,7 +10,7 @@ public class ParkingLotGateSystem {
         int choice;
 
         while (true) {
-            System.out.println("\n🚗 Parking Lot Menu:");
+            System.out.println("\n Parking Lot Menu:");
             System.out.println("1. Park");
             System.out.println("2. Exit Lot");
             System.out.println("3. Show Occupancy");
