@@ -67,7 +67,7 @@ class UserFeed {
 }
 
 
-public class Main {
+public class socialmedia {
     public static void main(String[] args) throws InterruptedException {
         UserFeed userFeed = new UserFeed();
 
