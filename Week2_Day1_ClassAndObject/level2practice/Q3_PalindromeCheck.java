@@ -3,7 +3,7 @@ package Week2_Day1_ClassAndObject.level2practice;
 
 import java.util.Scanner;
 
-public class Q3_PalindromeCheck {
+public class PalindromeCheck {
     String text;
 
     public boolean isPalindrome() {
@@ -18,7 +18,7 @@ public class Q3_PalindromeCheck {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Q3_PalindromeCheck obj = new Q3_PalindromeCheck();
+        PalindromeCheck obj = new PalindromeCheck();
         System.out.print("Enter text: ");
         obj.text = sc.nextLine();
         obj.displayResult();
