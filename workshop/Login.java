@@ -4,7 +4,7 @@
 //provide regex for all fields ans save inside json file
 //now create a login pojo class with username and password msure use abstraction and oops 
 
-package workshop;
+
 
 public class Login {
     private String username;

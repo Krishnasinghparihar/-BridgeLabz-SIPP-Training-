@@ -1,4 +1,4 @@
-package workshop;
+
 
 public class Ride {
      double distance;
